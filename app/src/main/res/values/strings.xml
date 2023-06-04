@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E-Library</string>
+    <string name="don_t_have_an_account_signup">Don\'t Have an Account? <b>Signup</b></string> <!-- make signup bold-->
+</resources>
