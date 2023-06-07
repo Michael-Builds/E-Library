@@ -7,6 +7,10 @@ android {
     namespace 'com.example.e_library'
     compileSdk 33
 
+    viewBinding {
+        enabled = true
+    }
+
     defaultConfig {
         applicationId "com.example.e_library"
         minSdk 24

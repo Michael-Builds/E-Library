@@ -81,4 +81,5 @@
         android:textColor="@color/white"
         android:layout_below="@id/categoryTil"/>
 
+
 </RelativeLayout>
